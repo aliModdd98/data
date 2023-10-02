@@ -89,49 +89,49 @@
     }, {
         "id":2,
         "Name": "Sophia Anderson",
-        "Class": "11th Grade",
+        "class": "11th Grade",
         "desc": "Sophia is an artistic and creative student who has a flair for visual arts. She often showcases her talent through stunning artworks and is known for her unique perspective and attention to detail.",
         "image":"https://img.freepik.com/free-photo/young-attractive-stylish-student-girl-denim-jacket-thoughtfully-looking-away-outdoor_574295-1373.jpg?t=st=1696258924~exp=1696259524~hmac=587e677464883cf8b025908ec263355db454d333aaaef8a8ca252273855226e2"
     }, {
         "id":3,
         "Name": "Noah Davis",
-        "Class": "8th Grade",
+        "class": "8th Grade",
        "desc": "Noah is a friendly and outgoing student who loves playing sports. He actively participates in the school's basketball team and demonstrates excellent teamwork and sportsmanship.",
         "image":"https://img.freepik.com/free-photo/teenager-with-book-apple_23-2147669019.jpg?size=626&ext=jpg&ga=GA1.2.2064636510.1696257468&semt=ais"
     }, {
         "id":4,
         "Name": "Ava Martinez",
-"Class":" 12th Grade",
+"class":" 12th Grade",
 "desc": "Ava is a dedicated and hardworking student who aspires to become a doctor. She is known for her exceptional academic achievements and her commitment to helping others.",
         "image":"https://img.freepik.com/free-photo/thoughtful-woman-glasses-standing-blue-wall_23-2148071594.jpg?size=626&ext=jpg&ga=GA1.1.2064636510.1696257468&semt=ais"
     }, {
         "id":5,
         "Name":" Liam Thompson",
-"Class": "7th Grade",
-"desc": "Liam is an enthusiastic and curious student who has a passion for history. He enjoys reading historical books and visiting museums to deepen his knowledge of different time periods.",
+        "class": "7th Grade",
+        "desc": "Liam is an enthusiastic and curious student who has a passion for history. He enjoys reading historical books and visiting museums to deepen his knowledge of different time periods.",
         "image":"https://img.freepik.com/free-photo/smiling-caucasian-woman-standing-near-red-rough-wall_23-2148193905.jpg?size=626&ext=jpg&ga=GA1.1.2064636510.1696257468&semt=ais"
     }, {
         "id":6,
         "Name": "Olivia Wilson",
-        "Class": "9th Grade",
+        "class": "9th Grade",
         "desc":"Olivia is a compassionate and empathetic student who actively participates in community service activities. She is passionate about making a positive impact on the lives of others.",
         "image":"https://img.freepik.com/free-photo/happy-young-hipster-woman-holds-retro-photo-camera-having-fun-city-with-camera-travel-photo-photographer_639032-2516.jpg?size=626&ext=jpg&ga=GA1.1.2064636510.1696257468&semt=ais"
     }, {
         "id":7,
         "Name": "Benjamin Lee",
-        "Class":"10th Grade",
-        "Description":" Benjamin is a talented musician who plays multiple instruments. He is often seen performing in school events and is known for his passion for music and dedication to his craft.",
+        "class":"10th Grade",
+        "desc":" Benjamin is a talented musician who plays multiple instruments. He is often seen performing in school events and is known for his passion for music and dedication to his craft.",
         "image":"https://img.freepik.com/free-photo/smiling-portrait-blonde-young-woman-against-green-backdrop_23-2148178148.jpg?size=626&ext=jpg&ga=GA1.1.2064636510.1696257468&semt=ais"
     }, {
         "id":8,
         "Name": "Emma Clark",
-        "Class": "6th Grade",
+        "class": "6th Grade",
         "desc": "Emma is an enthusiastic and curious student who loves exploring the world of science. She enjoys conducting experiments and discovering the wonders of the natural world.",
         "image":"https://img.freepik.com/premium-photo/portrait-smiling-student-with-backpack-books-walking-university-showing-victory-sign_207258-115.jpg?size=626&ext=jpg&ga=GA1.1.2064636510.1696257468&semt=ais"
     }, {
         "id":9,
         "name":" William Rodriguez",
-       "Class": "11th Grade",
+       "class": "11th Grade",
         "desc":" William is a determined and motivated student who actively participates in debate competitions. He has excellent public speaking skills and a strong ability to articulate his thoughts and ideas.",
         "image":"https://img.freepik.com/free-photo/young-adult-smiling-while-waiting-his-friends_23-2149064541.jpg?size=626&ext=jpg&ga=GA1.1.2064636510.1696257468&semt=ais"
     }
