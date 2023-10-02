@@ -1,0 +1,194 @@
+{
+
+    "Teachers" : [
+        {   "id":0,
+            "name":"Sarah Thompson",
+            "subject":"English",
+            "classes":"10th Grade",
+            "desc":" Sarah Thompson is an experienced English teacher who specializes in literature and writing. She is passionate about helping students develop their language skills and discover the joy of reading.",
+            "img":"https://img.freepik.com/free-photo/young-woman-teacher-sitting-school-desk-front-blackboard-classroom-checking-homework-students-looking-camera-happy-pleased-smiling_141793-139226.jpg?size=626&ext=jpg&ga=GA1.1.2064636510.1696257468&semt=ais"
+
+        },
+         {   "id":1,
+        "name":"Michael Rodriguez",
+        "subject":"Mathematics",
+        "classes":"9th  Grade",
+        "desc":" Michael Rodriguez is a dedicated math teacher with a knack for making complex concepts easy to understand. He uses creative teaching methods and real-world examples to engage students and foster a deep understanding of mathematical principles.",
+        "img":"https://img.freepik.com/free-photo/portrait-caucasian-content-teacher-with-folded-hands_74855-10318.jpg?size=626&ext=jpg&ga=GA1.1.2064636510.1696257468&semt=ais"
+
+    }, 
+    {   "id":2,
+       "name":"Jennifer Lee",
+       "subject":"Science",
+       "classes":"7th Grade",
+       "desc":"Jennifer Lee is an enthusiastic science teacher who loves to inspire young minds through hands-on experiments and interactive learning. She encourages curiosity and critical thinking in her students, making science an exciting and engaging subject.",
+       "img":"https://img.freepik.com/premium-photo/teacher-sit-classroom-with-students-background-international-teacher-s-day_88235-4813.jpg?size=626&ext=jpg&ga=GA1.1.2064636510.1696257468&semt=ais"
+
+}, 
+{   "id":3,
+"name":"David Johnson",
+"subject":"History",
+"classes":"12th Grade",
+"desc":"David Johnson is a passionate history teacher who brings the past to life in his classroom. He encourages students to explore different historical perspectives and analyze significant events, fostering a deep appreciation for the complexities of the past.",
+"img":"https://img.freepik.com/free-photo/concentrated-aged-math-teacher-leaning-chalkboard_23-2148201021.jpg?size=626&ext=jpg&ga=GA1.2.2064636510.1696257468&semt=ais"
+}, {   "id":4,
+"name":"Emily Davis",
+"subject":"Art",
+"classes":"8th Grade",
+"desc":"Emily Davis is a talented art teacher who nurtures creativity and self-expression in her students. She introduces various art forms, techniques, and art history, allowing students to explore their artistic abilities and develop a unique artistic voice.",
+"img":"https://img.freepik.com/free-photo/smiley-teacher-holding-tablet_23-2148668619.jpg?size=626&ext=jpg&ga=GA1.2.2064636510.1696257468&semt=ais"
+
+}, {   "id":5,
+"name":" Laura Martinez",
+"subject":"Spanish",
+"classes":"11th Grade",
+"desc":"Laura Martinez is a skilled Spanish teacher who immerses her students in the language and culture of Spanish-speaking countries. She uses interactive activities, conversations, and multimedia resources to develop students' proficiency in Spanish.",
+"img":"https://img.freepik.com/free-photo/teacher-with-glasses-class_23-2148665899.jpg?size=626&ext=jpg&ga=GA1.1.2064636510.1696257468&semt=ais"
+
+},
+{
+    "id":6,
+    "name":"Christopher Clark",
+    "subject":"Music",
+    "classes":"4th Grade",
+    "desc":" Christopher Clark is a talented music teacher who introduces students to the world of music through singing, playing instruments, and music theory. He encourages students to explore their musical interests and fosters a lifelong appreciation for music.",
+    "img":"https://img.freepik.com/premium-photo/woman-smiling-successfully-negotiating-internationally-wall-flags-world_131087-1640.jpg?size=626&ext=jpg&ga=GA1.1.2064636510.1696257468&semt=ais"
+    },
+    {
+        "id":7,
+        "name":"Samantha Roberts",
+        "subject":"Computer Science",
+        "classes":"8th Grade",
+        "desc":"Samantha Roberts is a knowledgeable computer science teacher who guides students through the exciting world of coding and technology. She equips students with essential programming skills and encourages them to think critically and solve problems using technology.",
+        "img":"https://img.freepik.com/free-photo/happy-teacher-pointing-chalkboard-while-giving-online-class-her-students_637285-9400.jpg?size=626&ext=jpg&ga=GA1.2.2064636510.1696257468&semt=ais"
+        
+    },
+{
+    "id":8,
+    "name":"Daniel Brown",
+    "subject":"Geography",
+    "classes":"2th Grade",
+    "desc":"Robert Wilson is an energetic physical education teacher who promotes physical fitness, teamwork, and sportsmanship. He creates a positive and inclusive environment where students can develop their motor skills and a love for an active lifestyle.",
+    "img":"https://img.freepik.com/free-photo/online-kindergarten-concept-cute-preschool-teacher-with-glasses-using-abacus-give-math-class-little-kids_662251-2478.jpg?size=626&ext=jpg&ga=GA1.2.2064636510.1696257468&semt=ais"
+    
+}
+],
+"Students":[
+    {
+        "id":0,
+        "name":"Emily Johnson",
+        "class":"10th Grade",
+        "desc":" Emily is a diligent and ambitious student who excels in both academics and extracurricular activities. She is known for her leadership skills and active participation in various school clubs.",
+        "image":"https://img.freepik.com/free-photo/side-view-medium-shot-confident-school-girl-holding-tablet_23-2148225348.jpg?size=626&ext=jpg&ga=GA1.2.2064636510.1696257468&semt=ais"
+    }, {
+        "id":1,
+        "name":"Ethan Smith",
+        "class":"9th Grade",
+        "desc":" Ethan is a curious and inquisitive student who has a passion for science and technology. He enjoys conducting experiments and exploring new concepts that broaden his understanding of the world.",
+        "image":"https://img.freepik.com/free-photo/happy-attractive-young-woman-making-hand-frame-against-red-wall_23-2148193975.jpg?size=626&ext=jpg&ga=GA1.2.2064636510.1696257468&semt=ais"
+    }, {
+        "id":2,
+        "Name": "Sophia Anderson",
+        "Class": "11th Grade",
+        "desc": "Sophia is an artistic and creative student who has a flair for visual arts. She often showcases her talent through stunning artworks and is known for her unique perspective and attention to detail.",
+        "image":"https://img.freepik.com/free-photo/young-attractive-stylish-student-girl-denim-jacket-thoughtfully-looking-away-outdoor_574295-1373.jpg?t=st=1696258924~exp=1696259524~hmac=587e677464883cf8b025908ec263355db454d333aaaef8a8ca252273855226e2"
+    }, {
+        "id":3,
+        "Name": "Noah Davis",
+        "Class": "8th Grade",
+       "desc": "Noah is a friendly and outgoing student who loves playing sports. He actively participates in the school's basketball team and demonstrates excellent teamwork and sportsmanship.",
+        "image":"https://img.freepik.com/free-photo/teenager-with-book-apple_23-2147669019.jpg?size=626&ext=jpg&ga=GA1.2.2064636510.1696257468&semt=ais"
+    }, {
+        "id":4,
+        "Name": "Ava Martinez",
+"Class":" 12th Grade",
+"desc": "Ava is a dedicated and hardworking student who aspires to become a doctor. She is known for her exceptional academic achievements and her commitment to helping others.",
+        "image":"https://img.freepik.com/free-photo/thoughtful-woman-glasses-standing-blue-wall_23-2148071594.jpg?size=626&ext=jpg&ga=GA1.1.2064636510.1696257468&semt=ais"
+    }, {
+        "id":5,
+        "Name":" Liam Thompson",
+"Class": "7th Grade",
+"desc": "Liam is an enthusiastic and curious student who has a passion for history. He enjoys reading historical books and visiting museums to deepen his knowledge of different time periods.",
+        "image":"https://img.freepik.com/free-photo/smiling-caucasian-woman-standing-near-red-rough-wall_23-2148193905.jpg?size=626&ext=jpg&ga=GA1.1.2064636510.1696257468&semt=ais"
+    }, {
+        "id":6,
+        "Name": "Olivia Wilson",
+        "Class": "9th Grade",
+        "desc":"Olivia is a compassionate and empathetic student who actively participates in community service activities. She is passionate about making a positive impact on the lives of others.",
+        "image":"https://img.freepik.com/free-photo/happy-young-hipster-woman-holds-retro-photo-camera-having-fun-city-with-camera-travel-photo-photographer_639032-2516.jpg?size=626&ext=jpg&ga=GA1.1.2064636510.1696257468&semt=ais"
+    }, {
+        "id":7,
+        "Name": "Benjamin Lee",
+        "Class":"10th Grade",
+        "Description":" Benjamin is a talented musician who plays multiple instruments. He is often seen performing in school events and is known for his passion for music and dedication to his craft.",
+        "image":"https://img.freepik.com/free-photo/smiling-portrait-blonde-young-woman-against-green-backdrop_23-2148178148.jpg?size=626&ext=jpg&ga=GA1.1.2064636510.1696257468&semt=ais"
+    }, {
+        "id":8,
+        "Name": "Emma Clark",
+        "Class": "6th Grade",
+        "desc": "Emma is an enthusiastic and curious student who loves exploring the world of science. She enjoys conducting experiments and discovering the wonders of the natural world.",
+        "image":"https://img.freepik.com/premium-photo/portrait-smiling-student-with-backpack-books-walking-university-showing-victory-sign_207258-115.jpg?size=626&ext=jpg&ga=GA1.1.2064636510.1696257468&semt=ais"
+    }, {
+        "id":9,
+        "name":" William Rodriguez",
+       "Class": "11th Grade",
+        "desc":" William is a determined and motivated student who actively participates in debate competitions. He has excellent public speaking skills and a strong ability to articulate his thoughts and ideas.",
+        "image":"https://img.freepik.com/free-photo/young-adult-smiling-while-waiting-his-friends_23-2149064541.jpg?size=626&ext=jpg&ga=GA1.1.2064636510.1696257468&semt=ais"
+    }
+]
+,
+    "Courses":[{
+        "name": "Introduction to Programming",
+        "id": "CSE101",
+        "rating": 4.5,
+        "img":"https://img.freepik.com/free-photo/programming-script-text-coding-word_53876-64939.jpg?size=626&ext=jpg&ga=GA1.2.2064636510.1696257468&semt=ais"
+      },{
+        "name": "Mathematics for Beginners",
+        "id": "MAT101",
+        "rating": 4.2,
+        "img":"https://img.freepik.com/free-vector/maths-chalkboard_23-2148178220.jpg?size=626&ext=jpg&ga=GA1.2.2064636510.1696257468&semt=sph"
+      },{
+        "name": "English Literature",
+        "id": "ENG201",
+        "rating": 4.8,
+        "img":"https://img.freepik.com/free-vector/hand-drawn-english-school-background_23-2149496626.jpg?size=626&ext=jpg&ga=GA1.2.2064636510.1696257468&semt=ais"
+      },{
+        "name": "Digital Marketing Fundamentals",
+        "id": "MKT301",
+        "rating": 4.6,
+        "img":"https://img.freepik.com/free-photo/marketing-ideas-share-research-planning-concept_53876-127431.jpg?size=626&ext=jpg&ga=GA1.2.2064636510.1696257468&semt=ais"
+      },{
+        "name": "Introduction to Psychology",
+        "id": "PSY101",
+        "rating": 4.3,
+        "img":"https://img.freepik.com/free-vector/abstract-background-design_1343-45.jpg?size=626&ext=jpg&ga=GA1.2.2064636510.1696257468&semt=sph"
+      },
+      {
+        "name": "Web Development with HTML and CSS",
+        "id": "WEB101",
+        "rating": 4.7,
+        "img":"https://img.freepik.com/free-vector/programming-concept-illustration_114360-1351.jpg?size=626&ext=jpg&ga=GA1.2.2064636510.1696257468&semt=ais"
+      },{
+        "name": "Data Science with Python",
+        "id": "DS301",
+        "rating": 4.9,
+        "img":"https://img.freepik.com/free-vector/data-extraction-concept-illustration_114360-4766.jpg?size=626&ext=jpg&ga=GA1.2.2064636510.1696257468&semt=ais"
+      },{
+        "name": "Graphic Design Basics",
+        "id": "DES201",
+        "rating": 4.4,
+        "img":"https://img.freepik.com/free-vector/designer-girl-concept-illustration_114360-4455.jpg?size=626&ext=jpg&ga=GA1.2.2064636510.1696257468&semt=ais"
+      },{
+        "name": "Business Analytics",
+        "id": "BUS401",
+        "rating": 4.6,
+        "img":"https://img.freepik.com/free-vector/data-inform-illustration-concept_114360-864.jpg?size=626&ext=jpg&ga=GA1.2.2064636510.1696257468&semt=ais"
+      },{
+        "name": "Photography Masterclass",
+        "id": "PHO301",
+        "rating": 4.8,
+        "img":"https://img.freepik.com/free-photo/front-view-woman-taking-photos_23-2150506093.jpg?size=626&ext=jpg&ga=GA1.2.2064636510.1696257468&semt=ais"
+      }
+    ]
+
+}
